@@ -211,7 +211,7 @@ description			Irish_Rebels
 unit				Peasants
 unit				Levy Spearmen
 unit				Armored Swordsmen
-unit				Hobilars
+unit				Border Horse
 unit				Irish Kerns Mercs
 unit				Irish Kerns Mercs
 unit				Galloglaich
@@ -281,7 +281,7 @@ category			peasant_revolt
 chance				3					
 description			Scots_Rebels
 unit				Highland Archers
-unit				Highland Rabble
+unit				Highlanders
 unit				Highlanders
 unit				Feudal Knights
 unit				Town Militia

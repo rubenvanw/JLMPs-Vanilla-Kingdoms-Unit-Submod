@@ -3693,7 +3693,7 @@ unit		Billmen					exp 0 armour 0 weapon_lvl 0
 
 character	Robin, general, male, age 20, x 99, y 131 
 army
-unit		Hobilars				exp 1 armour 0 weapon_lvl 0
+unit		Border Horse				exp 1 armour 0 weapon_lvl 0
 unit		Spear Militia				exp 1 armour 0 weapon_lvl 0
 unit		Spear Militia				exp 1 armour 0 weapon_lvl 0
 unit		Peasant Archers				exp 0 armour 0 weapon_lvl 0
@@ -8472,7 +8472,7 @@ army
 unit		Border Horse				exp 1 armour 0 weapon_lvl 0
 unit		Highlanders				exp 1 armour 0 weapon_lvl 0
 unit		Scots Pike Militia			exp 0 armour 0 weapon_lvl 0
-unit		Highland Rabble				exp 0 armour 0 weapon_lvl 0
+unit		Highlanders				exp 0 armour 0 weapon_lvl 0
 unit		Highland Archers			exp 0 armour 0 weapon_lvl 0
 unit		Highland Archers			exp 0 armour 0 weapon_lvl 0
 

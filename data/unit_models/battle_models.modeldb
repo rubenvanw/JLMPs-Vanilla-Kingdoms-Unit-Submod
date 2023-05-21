@@ -1,4 +1,4 @@
-22 serialization::archive 3 0 0 0 0 880 0 0 
+22 serialization::archive 3 0 0 0 0 885 0 0 
 5 blank 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 10 mount_pony 
 1 3 
@@ -2386,6 +2386,35 @@
 21 MTW2_HR_spear_Primary 14 fs_test_shield 
 2 
 18 MTW2_Sword_Primary 14 fs_test_shield 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+22 dismounted_tsars_guard
+1 4 
+74 unit_models/_Units/Dismounted_Tsars_Guard/dismounted_tsars_guard_lod0.mesh 121 
+74 unit_models/_Units/Dismounted_Tsars_Guard/dismounted_tsars_guard_lod1.mesh 900 
+74 unit_models/_Units/Dismounted_Tsars_Guard/dismounted_tsars_guard_lod2.mesh 2500 
+74 unit_models/_Units/Dismounted_Tsars_Guard/dismounted_tsars_guard_lod3.mesh 6400 
+2 
+6 russia 
+92 unit_models/_Units/Dismounted_Tsars_Guard/textures/EE_Bekhtera_Heavy_Lamellar_russia.texture 
+92 unit_models/_Units/Dismounted_Tsars_Guard/textures/EE_Bekhtera_Heavy_Lamellar_normal.texture 
+54 unit_sprites/russia_Dismounted_Boyar_Sons_sprite.spr
+8 novgorod 
+98 unit_models/_Units/EE_Bekhtera_Heavy_Lamellar/textures/EE_Bekhtera_Heavy_Lamellar_novgorod.texture 
+96 unit_models/_Units/EE_Bekhtera_Heavy_Lamellar/textures/EE_Bekhtera_Heavy_Lamellar_normal.texture 
+44 unit_sprites/novgorod_Tsars_Guard_sprite.spr  
+2 
+6 russia 
+61 unit_models/AttachmentSets/Final Teardrop_russia_diff.texture 
+61 unit_models/AttachmentSets/Final Teardrop_russia_norm.texture 0
+8 novgorod 
+63 unit_models/AttachmentSets/Final Teardrop_novgorod_diff.texture 
+63 unit_models/AttachmentSets/Final Teardrop_novgorod_norm.texture 0   
+1 
+4 None 
+19 MTW2_Slow_Swordsman 0 
+2 
+18 MTW2_Sword_Primary 14 fs_test_shield 
+0 
 16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
 18 ee_cavalry_militia 
 1 3 
@@ -3147,6 +3176,62 @@
 1 
 5 Horse 
 12 MTW2_HR_Mace 0 
+2 
+17 MTW2_Mace_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+25 dismounted_armored_clergy 
+1 3 
+59 unit_models/_Units/EN_Pplate_Plate/armored_clergy_lod0.mesh 121 
+59 unit_models/_Units/EN_Pplate_Plate/armored_clergy_lod1.mesh 1225 
+59 unit_models/_Units/EN_Pplate_Plate/armored_clergy_lod2.mesh 6400 
+2 
+7 denmark 
+74 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_denmark.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+60 unit_sprites/denmark_Dismounted_Chivalric_Knights_sprite.spr 
+6 norway 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_norway.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+59 unit_sprites/norway_Dismounted_Chivalric_Knights_sprite.spr 
+2 
+7 denmark 
+66 unit_models/AttachmentSets/Final Priest Heads_denmark_diff.texture 
+66 unit_models/AttachmentSets/Final Priest Heads_denmark_norm.texture 0 
+6 norway 
+65 unit_models/AttachmentSets/Final Priest Heads_norway_diff.texture 
+65 unit_models/AttachmentSets/Final Priest Heads_norway_norm.texture 0 
+1 
+4 None 
+14 MTW2_Slow_Mace 0 
+2 
+17 MTW2_Mace_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+29 dismounted_armored_clergy_ug1 
+1 3 
+63 unit_models/_Units/EN_Pplate_Plate/armored_clergy_ug1_lod0.mesh 121 
+63 unit_models/_Units/EN_Pplate_Plate/armored_clergy_ug1_lod1.mesh 1225 
+63 unit_models/_Units/EN_Pplate_Plate/armored_clergy_ug1_lod2.mesh 6400 
+2 
+7 denmark 
+74 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_denmark.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+64 unit_sprites/denmark_Dismounted_Chivalric_Knights_ug1_sprite.spr  
+6 norway 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_norway.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+63 unit_sprites/norway_Dismounted_Chivalric_Knights_ug1_sprite.spr  
+2 
+7 denmark 
+66 unit_models/AttachmentSets/Final Priest Heads_denmark_diff.texture 
+66 unit_models/AttachmentSets/Final Priest Heads_denmark_norm.texture 0 
+6 norway 
+65 unit_models/AttachmentSets/Final Priest Heads_norway_diff.texture 
+65 unit_models/AttachmentSets/Final Priest Heads_norway_norm.texture 0 
+1 
+4 None 
+14 MTW2_Slow_Mace 0 
 2 
 17 MTW2_Mace_Primary 14 fs_test_shield 
 0 
@@ -5392,19 +5477,26 @@
 59 unit_models/_Units/EN_Peasant_Padded/border_horse_lod1.mesh 900 
 59 unit_models/_Units/EN_Peasant_Padded/border_horse_lod2.mesh 2500 
 59 unit_models/_Units/EN_Peasant_Padded/border_horse_lod3.mesh 6400 
-2 
+3 
 8 scotland 
 80 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_scotland.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
-45 unit_sprites/scotland_Border_Horse_sprite.spr 
+45 unit_sprites/scotland_Border_Horse_sprite.spr
+7 england 
+79 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_england.texture 
+78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
+40 unit_sprites/england_Hobilars_sprite.spr 
 5 slave 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_rebels.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
-42 unit_sprites/slave_Border_Horse_sprite.spr 
-2 
+42 unit_sprites/slave_Border_Horse_sprite.spr
+3 
 8 scotland 
 59 unit_models/AttachmentSets/Final Kite_scotland_diff.texture 
-59 unit_models/AttachmentSets/Final Kite_scotland_norm.texture 0 
+59 unit_models/AttachmentSets/Final Kite_scotland_norm.texture 0
+7 england 
+58 unit_models/AttachmentSets/Final Kite_england_diff.texture 
+58 unit_models/AttachmentSets/Final Kite_england_norm.texture 0  
 5 slave 
 56 unit_models/AttachmentSets/Final Kite_slave_diff.texture 
 56 unit_models/AttachmentSets/Final Kite_slave_norm.texture 0 
@@ -5422,19 +5514,26 @@
 60 unit_models/_Units/EN_Lmail_Hmail/border_horse_ug1_lod1.mesh 900 
 60 unit_models/_Units/EN_Lmail_Hmail/border_horse_ug1_lod2.mesh 2500 
 60 unit_models/_Units/EN_Lmail_Hmail/border_horse_ug1_lod3.mesh 6400 
-2 
+3 
 8 scotland 
 74 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_scotland.texture 
 72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_normal.texture 
-49 unit_sprites/scotland_Border_Horse_ug1_sprite.spr 
+49 unit_sprites/scotland_Border_Horse_ug1_sprite.spr
+7 england 
+73 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_england.texture 
+72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_normal.texture 
+44 unit_sprites/england_Hobilars_ug1_sprite.spr  
 5 slave 
 72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_rebels.texture 
 72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_normal.texture 
-46 unit_sprites/slave_Border_Horse_ug1_sprite.spr 
-2 
+46 unit_sprites/slave_Border_Horse_ug1_sprite.spr  
+3 
 8 scotland 
 59 unit_models/AttachmentSets/Final Kite_scotland_diff.texture 
-59 unit_models/AttachmentSets/Final Kite_scotland_norm.texture 0 
+59 unit_models/AttachmentSets/Final Kite_scotland_norm.texture 0
+7 england 
+58 unit_models/AttachmentSets/Final Kite_england_diff.texture 
+58 unit_models/AttachmentSets/Final Kite_england_norm.texture 0  
 5 slave 
 56 unit_models/AttachmentSets/Final Kite_slave_diff.texture 
 56 unit_models/AttachmentSets/Final Kite_slave_norm.texture 0 
@@ -10260,11 +10359,15 @@
 55 unit_models/_Units/EN_Peasant_Padded/peasants_lod1.mesh 900 
 55 unit_models/_Units/EN_Peasant_Padded/peasants_lod2.mesh 2500 
 55 unit_models/_Units/EN_Peasant_Padded/peasants_lod3.mesh 6400 
-18 
+19 
 7 england 
 79 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_england.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
-49 unit_sprites/england_Dummy_EN_Spearmen_sprite.spr 
+49 unit_sprites/england_Dummy_EN_Spearmen_sprite.spr
+8 scotland 
+80 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_scotland.texture 
+78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
+51 unit_sprites/scotland_Dummy_EN_Spearmen_sprite.spr  
 6 france 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_france.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
@@ -10333,10 +10436,13 @@
 77 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_wales.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
 47 unit_sprites/wales_Dummy_EN_Spearmen_sprite.spr 
-18 
+19 
 7 england 
 68 unit_models/AttachmentSets/Final European Light_england_diff.texture 
-68 unit_models/AttachmentSets/Final European Light_england_norm.texture 0 
+68 unit_models/AttachmentSets/Final European Light_england_norm.texture 0
+8 scotland
+69 unit_models/AttachmentSets/Final European Light_scotland_diff.texture 
+69 unit_models/AttachmentSets/Final European Light_scotland_norm.texture 0 
 6 france 
 67 unit_models/AttachmentSets/Final European Light_france_diff.texture 
 67 unit_models/AttachmentSets/Final European Light_france_norm.texture 0 
@@ -10401,11 +10507,15 @@
 59 unit_models/_Units/EN_Peasant_Padded/peasants_ug1_lod1.mesh 900 
 59 unit_models/_Units/EN_Peasant_Padded/peasants_ug1_lod2.mesh 2500 
 59 unit_models/_Units/EN_Peasant_Padded/peasants_ug1_lod3.mesh 6400 
-18 
+19 
 7 england 
 79 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_england.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
-53 unit_sprites/england_Dummy_EN_Spearmen_ug1_sprite.spr 
+53 unit_sprites/england_Dummy_EN_Spearmen_ug1_sprite.spr
+8 scotland
+80 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_scotland.texture 
+78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
+54 unit_sprites/scotland_Dummy_EN_Spearmen_ug1_sprite.spr  
 6 france 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_france.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
@@ -10474,10 +10584,13 @@
 77 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_wales.texture 
 78 unit_models/_Units/EN_Peasant_Padded/textures/EN_Peasant_Padded_normal.texture 
 51 unit_sprites/wales_Dummy_EN_Spearmen_ug1_sprite.spr 
-18 
+19 
 7 england 
 68 unit_models/AttachmentSets/Final European Light_england_diff.texture 
-68 unit_models/AttachmentSets/Final European Light_england_norm.texture 0 
+68 unit_models/AttachmentSets/Final European Light_england_norm.texture 0
+8 scotland
+69 unit_models/AttachmentSets/Final European Light_scotland_diff.texture 
+69 unit_models/AttachmentSets/Final European Light_scotland_norm.texture 0 
 6 france 
 67 unit_models/AttachmentSets/Final European Light_france_diff.texture 
 67 unit_models/AttachmentSets/Final European Light_france_norm.texture 0 
@@ -21614,7 +21727,29 @@
 2
 18 MTW2_Sword_Primary 14 fs_test_shield
 0
-16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+22 mongol_heavy_swordsmen
+1 4
+74 unit_models/_Units/Mongol_Heavy_Swordsmen/mongol_heavy_swordsmen_lod0.mesh 121 
+74 unit_models/_Units/Mongol_Heavy_Swordsmen/mongol_heavy_swordsmen_lod1.mesh 900
+74 unit_models/_Units/Mongol_Heavy_Swordsmen/mongol_heavy_swordsmen_lod2.mesh 2500 
+74 unit_models/_Units/Mongol_Heavy_Swordsmen/mongol_heavy_swordsmen_lod3.mesh 6400
+1
+7 mongols 
+73 unit_models/_Units/AS_Lamellar_Heavy/textures/AS_Lamellar_mongols.texture 
+72 unit_models/_Units/AS_Lamellar_Heavy/textures/AS_Lamellar_normal.texture 
+60 unit_sprites/mongols_Dismounted_Heavy_Lancers_ug1_sprite.spr 
+1
+7 mongols
+59 unit_models/AttachmentSets/Final Asian_mongols_diff.texture
+59 unit_models/AttachmentSets/Final Asian_mongols_norm.texture 0
+1
+4 None
+14 MTW2_Swordsman 0
+2
+18 MTW2_Sword_Primary 14 fs_test_shield
+0
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002  
 15 sabadar_militia 
 1 4 
 62 unit_models/_Units/AS_Lamellar_Heavy/sabadar_militia_lod0.mesh 121 
@@ -21900,7 +22035,7 @@
 2 
 18 MTW2_Spear_primary 14 fs_test_shield 
 0 
-16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
 14 aztec_peasants 
 1 3 
 52 unit_models/_Units/AZ_Light/aztec_peasants_lod0.mesh 121 
@@ -25438,6 +25573,50 @@
 18 MTW2_Sword_Primary 14 fs_test_shield 
 0 
 16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
+26 dismounted_templar_knights
+1 4 
+82 unit_models/_Units/Dismounted_Templar_Knights/dismounted_templar_knights_lod0.mesh 121 
+82 unit_models/_Units/Dismounted_Templar_Knights/dismounted_templar_knights_lod1.mesh 900 
+82 unit_models/_Units/Dismounted_Templar_Knights/dismounted_templar_knights_lod2.mesh 2500 
+82 unit_models/_Units/Dismounted_Templar_Knights/dismounted_templar_knights_lod3.mesh 6400 
+1 
+9 jerusalem 
+73 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_templar.texture 
+81 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_crusader_normal.texture 
+50 unit_sprites/jerusalem_Templar_Sergeant_sprite.spr  
+1 
+9 jerusalem 
+70 unit_models/AttachmentSets/Final Heater Special_jerusalem_diff.texture 
+70 unit_models/AttachmentSets/Final Heater Special_jerusalem_norm.texture 0 
+1 
+4 None 
+14 MTW2_Swordsman 0 
+2 
+18 MTW2_Sword_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+30 dismounted_hospitaller_knights
+1 4 
+90 unit_models/_Units/Dismounted_Hospitaller_Knights/dismounted_hospitaller_knights_lod0.mesh 121 
+90 unit_models/_Units/Dismounted_Hospitaller_Knights/dismounted_hospitaller_knights_lod1.mesh 900 
+90 unit_models/_Units/Dismounted_Hospitaller_Knights/dismounted_hospitaller_knights_lod2.mesh 2500 
+90 unit_models/_Units/Dismounted_Hospitaller_Knights/dismounted_hospitaller_knights_lod3.mesh 6400 
+1 
+7 antioch
+77 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_hospitaller.texture 
+81 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_crusader_normal.texture 
+52 unit_sprites/antioch_Hospitaller_Sergeant_sprite.spr  
+1 
+7 antioch
+68 unit_models/AttachmentSets/Final Heater Special_antioch_diff.texture 
+68 unit_models/AttachmentSets/Final Heater Special_antioch_norm.texture 0 
+1 
+4 None 
+14 MTW2_Swordsman 0 
+2 
+18 MTW2_Sword_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002  
 16 templar_sergeant 
 1 4 
 60 unit_models/_Units/EN_Lmail_Hmail/templar_sergeant_lod0.mesh 121 

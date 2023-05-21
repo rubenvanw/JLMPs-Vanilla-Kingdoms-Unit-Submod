@@ -3943,7 +3943,7 @@ character	Edward, named character, male, heir, age 26, x 98, y 148
 traits Factionheir 1 , LoyaltyStarter 1 , NaturalMilitarySkill 1 , GoodCommander 1 , ReligionStarter 1 
 army
 unit		NE Bodyguard				exp 1 armour 0 weapon_lvl 0
-unit		Hobilars				exp 0 armour 0 weapon_lvl 0
+unit		Border Horse				exp 0 armour 0 weapon_lvl 0
 unit		Longbowmen				exp 0 armour 0 weapon_lvl 0
 unit		Archer Militia				exp 0 armour 0 weapon_lvl 0
 unit		Billmen					exp 0 armour 0 weapon_lvl 0
@@ -3964,7 +3964,7 @@ unit		Longbowmen				exp 1 armour 0 weapon_lvl 0
 character	Robin, general, male, age 20, x 100, y 108 
 army
 unit		Feudal Knights				exp 1 armour 0 weapon_lvl 0
-unit		Hobilars				exp 1 armour 0 weapon_lvl 0
+unit		Border Horse				exp 1 armour 0 weapon_lvl 0
 unit		Spear Militia				exp 1 armour 0 weapon_lvl 0
 unit		Spear Militia				exp 1 armour 0 weapon_lvl 0
 unit		Peasant Archers				exp 0 armour 0 weapon_lvl 0
@@ -8596,7 +8596,7 @@ unit		Sergeant Spearmen			exp 1 armour 0 weapon_lvl 0
 unit		Town Militia				exp 0 armour 0 weapon_lvl 0
 unit		Archer Militia				exp 0 armour 0 weapon_lvl 0
 unit		Peasant Archers				exp 0 armour 0 weapon_lvl 0
-unit		Hobilars				exp 0 armour 0 weapon_lvl 0
+unit		Border Horse				exp 0 armour 0 weapon_lvl 0
 
 ;Chester
 character	sub_faction england, Nigel of_Chester, general, male, age 32, x 101, y 159 
@@ -8605,7 +8605,7 @@ unit		Mailed Knights				exp 1 armour 0 weapon_lvl 0
 unit		Sergeant Spearmen			exp 1 armour 0 weapon_lvl 0
 unit		Town Militia				exp 0 armour 0 weapon_lvl 0
 unit		Archer Militia				exp 0 armour 0 weapon_lvl 0
-unit		Hobilars				exp 0 armour 0 weapon_lvl 0
+unit		Border Horse				exp 0 armour 0 weapon_lvl 0
 
 character	sub_faction venice, Blasio Tasso, general, male, age 28, x 142, y 100 
 army
