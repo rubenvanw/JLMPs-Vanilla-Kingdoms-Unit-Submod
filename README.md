@@ -11,29 +11,53 @@ Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 
 ## Units
 
+### Antioch
+- Dismounted Hospitaller Knights
 ### Crusader States
 - Templar Zweihander
+### Denmark
+- Dismounted War Clerics
 ### France
 - Dismounted Gendarmes
 ### Holy Roman Empire
 - Dismounted Gothic Knights
 ### Ireland
 - Ostmen Raiders
+### Jerusalem
+- Dismounted Templar Knights
 ### Mongols
 - Mongol Swordsmen
 ### Moors
 - Moorish Guard
+### Norway
+- Dismounted War Clerics
+### Novgorod
+- Dismounted Tsars Guard
+### Russia
+- Dismounted Tsars Guard
 ### Teutonic Order
 - Foot Ritterbrüder Zweihander
 ### Wales
 - Gwynedd Swordsmen
 
+## Other Changes
+
+### Some units are removed to free up entries in the export_descr_units.txt
+- English hobilars changed to border horse
+- Removed russian arbalest unit
+- Removed Highland Rabble and gave Scotland Peasants instead
+- Removed duplicate mercenary entries
+
+### Changed Stats
+- Increased soldier count for Canons of the Holy Sepulcher
+- Armoured Swordsmen
+
 
 ## Installation
 
-1. Download and install JLMPs Vanilla Kingdoms.
-2. Download this mod.
-3. Overwrite the data folder of Vanilla Kingdoms with this one.
+1. Download and install JLMPs Vanilla Kingdoms
+2. Download this mod
+3. Overwrite the data folder of Vanilla Kingdoms with this one
 
 
 
