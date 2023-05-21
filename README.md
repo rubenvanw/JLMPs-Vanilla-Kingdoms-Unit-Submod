@@ -15,6 +15,7 @@ Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 - Dismounted Hospitaller Knights
 ### Crusader States
 - Templar Zweihander
+- Dismounted Templar Knights
 ### Denmark
 - Dismounted War Clerics
 ### France
@@ -23,10 +24,9 @@ Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 - Dismounted Gothic Knights
 ### Ireland
 - Ostmen Raiders
-### Jerusalem
-- Dismounted Templar Knights
 ### Mongols
 - Mongol Swordsmen
+- Mongol Heavy Swordsmen
 ### Moors
 - Moorish Guard
 ### Norway
