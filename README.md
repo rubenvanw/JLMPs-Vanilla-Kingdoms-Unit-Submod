@@ -35,6 +35,8 @@ Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 - Dismounted Tsars Guard
 ### Russia
 - Dismounted Tsars Guard
+### Sicily
+- Norman Axemen
 ### Teutonic Order
 - Foot Ritterbrüder Zweihander
 ### Wales
@@ -47,6 +49,7 @@ Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 - Removed russian arbalest unit
 - Removed Highland Rabble and gave Scotland Peasants instead
 - Removed duplicate mercenary entries
+- Removed billmen militia, replaced recruitment in city with regular billmen
 
 ### Changed Stats
 - Increased soldier count for Canons of the Holy Sepulcher

@@ -1,9 +1,9 @@
 ;=========================================
 ;	JLMP 2023
-;	March 21
+;	June 9
 ;
 ;	1200 version
-;	2 ypt
+;	1 ypt
 ;=========================================
 
 campaign		Grand_Campaign_Alt
@@ -48,7 +48,7 @@ end
 
 start_date	1200 summer
 end_date	1600 winter
-timescale	2.00
+timescale	1.00
 
 
 marian_reforms_disabled
@@ -496,7 +496,7 @@ resource	slaves,	232,	1
 faction	wales, fortified smith
 ai_label		catholic
 denari	4500
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement castle
 {
 	level large_town
@@ -575,7 +575,7 @@ relative	Dafydd of_Gwynedd,	Gwerryl, end
 faction	ireland, balanced smith
 ai_label		catholic
 denari	4800
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement
 {
 	level large_town
@@ -657,7 +657,7 @@ relative 	Domnall O'Neill, Martha,	end
 faction	novgorod, trader tzar
 ai_label		orthodox
 denari	6500
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level city
@@ -752,7 +752,7 @@ relative 	Alexander Nevski,	Khristin,	Dmitrii of_Pereslavl,	Antonina,	end
 faction	teutonic_order, religious heinrich
 ai_label		catholic
 denari	7000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement castle
 {
 	level large_town
@@ -844,7 +844,7 @@ relative 	Gunther von_Schwarzenburg, 	Agnes,		Maximillian,    Dietrich,   Hans,	
 faction	lithuania, religious vlad
 ai_label		default
 denari	6000
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level large_town
@@ -933,7 +933,7 @@ relative 	Mindaugas,	Morta,	Vykintas,	Edivydas,	end
 faction	jerusalem, fortified richard
 ai_label		catholic
 denari	7000
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement
 {
 	level large_city
@@ -1092,7 +1092,7 @@ relative 	Almaric of_Lusignan,	Isabella,	end
 faction	antioch, religious guy
 ai_label		catholic
 denari	6000
-denari_kings_purse	1300
+denari_kings_purse	1100
 settlement
 {
 	level large_city
@@ -1239,7 +1239,7 @@ relative 	Bohemond,	Orguilleuse,	Reynald of_Chatillon,	Guy,	Constance,	end
 faction	norway, sailor stalin
 ai_label		catholic
 denari	7000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement castle
 {
 	level large_town
@@ -1348,7 +1348,7 @@ relative 	Magnus Haakonsson,	Ingrid,	end
 faction	scotland, fortified robert
 ai_label		catholic
 denari	5500
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level city
@@ -1449,7 +1449,7 @@ relative 	Malcolm Canmore,	Margaret,	Edward Canmore,	Edmund Canmore,	Alexander C
 faction	milan, craftsman caesar
 ai_label		catholic
 denari	6000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level city
@@ -1611,7 +1611,7 @@ relative 	Cristoforo Rossi,	Bella Rossi,	Simona Rossi,	Agostino Rossi,	end
 faction	venice, trader doge
 ai_label		catholic
 denari	7000
-denari_kings_purse	1800
+denari_kings_purse	1600
 settlement
 {
 	level city
@@ -1832,7 +1832,7 @@ relative 	Enrico Dandolo,	Magdalena Dandolo,	Benasuto Dandolo,	Gerardo Dandolo,	
 faction	sicily, sailor roger
 ai_label		catholic
 denari	6000
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement castle
 {
 	level city
@@ -2022,7 +2022,7 @@ relative 	Roger,	Judith,	Simon,	Matilda,	Adelisa,	end
 faction	spain, religious alfonso
 ai_label		catholic
 denari	6500
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level city
@@ -2176,7 +2176,7 @@ relative 	Alfonso el_Valiente,	Constance,	Rodrigo el_Valiente,	Urraca,	Teresa,	e
 faction	portugal, sailor smith
 ai_label		catholic
 denari	6000
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement
 {
 	level city
@@ -2213,10 +2213,6 @@ settlement
 	building
 	{
 		type hinterland_farms farms+1
-	}
-	building
-	{
-		type hinterland_roads roads
 	}
 	building
 	{
@@ -2319,7 +2315,7 @@ relative 	Henrique,	Teresa,	Afonso,	Rodrigo,	end
 faction	denmark, sailor stalin
 ai_label		catholic
 denari	6500
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level city
@@ -2460,7 +2456,7 @@ relative 	Knud,	Adela,	Charles,	Ingrid,	Cecile,	end
 faction	poland, balanced tzar
 ai_label		catholic
 denari	5500
-denari_kings_purse	1500
+denari_kings_purse	1300
 settlement
 {
 	level city
@@ -2623,7 +2619,7 @@ relative 	Mieszko Piast, Eudoxia, Wladyslaw Piast, Boleslaw Piast, Agnieszka, en
 faction	hungary, balanced vlad
 ai_label		catholic
 denari	6500
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level large_town
@@ -2786,7 +2782,7 @@ relative 	Laszlo,	Adelaide,	Kalman,	Istvan, Pioska,	end
 faction	russia, trader smith
 ai_label		orthodox
 denari	6500
-denari_kings_purse	1600
+denari_kings_purse	1400
 settlement
 {
 	level city
@@ -2912,7 +2908,7 @@ relative 	Vladimir,	Gravriia,	end
 faction	egypt, religious smith
 ai_label		islam
 denari	8000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level large_city
@@ -3178,7 +3174,7 @@ relative 	Mubarak,	Zaynab,	Moussa,	end
 faction	france, craftsman henry
 ai_label		catholic
 denari	6500
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level city
@@ -3487,7 +3483,7 @@ relative 	Philip,	Bertrada,	Louis,	Constance,	Michiel,	Henry,	end
 faction	england, sailor henry
 ai_label		catholic
 denari	6500
-denari_kings_purse	1800
+denari_kings_purse	1600
 settlement
 {
 	level city
@@ -3747,7 +3743,7 @@ relative 	John,	Matilda, Rufus, Robert, Cecilia, Henry,	end
 faction	turks, balanced tahar
 ai_label		islam
 denari	9000
-denari_kings_purse	1800
+denari_kings_purse	1600
 settlement
 {
 	level city
@@ -3987,7 +3983,7 @@ relative 	Jalal ad-Dawlah, Islah,	Mustafa ad-Dawlah, Tutush, Haluk, Nefise,	end
 faction	moors, fortified tahar
 ai_label		islam
 denari	7500
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level city
@@ -4360,7 +4356,7 @@ relative 	Qasim,	Saheena, Zizi,	end
 faction	hre, craftsman smith
 ai_label		catholic
 denari	7000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level city
@@ -4699,7 +4695,7 @@ relative	Leopold von_Luxemburg, Kungund, Dietrich von_Luxemburg, end
 faction	byzantium, fortified tzar
 ai_label		orthodox
 denari	4000
-denari_kings_purse	1700
+denari_kings_purse	1500
 settlement
 {
 	level large_city
@@ -8450,7 +8446,7 @@ unit		Feudal Knights				exp 2 armour 0 weapon_lvl 0
 unit		Mailed Knights				exp 1 armour 0 weapon_lvl 0
 unit		Armored Sergeants			exp 0 armour 0 weapon_lvl 0
 unit		Sergeant Spearmen			exp 1 armour 0 weapon_lvl 0
-unit		Flemish Pikemen	Mercs			exp 1 armour 0 weapon_lvl 0
+unit		Flemish Pikemen Mercs			exp 1 armour 0 weapon_lvl 0
 unit		Flemish Pikemen	Mercs			exp 0 armour 0 weapon_lvl 0
 unit		Crossbowmen				exp 1 armour 0 weapon_lvl 0
 unit		Crossbowmen				exp 0 armour 0 weapon_lvl 0
@@ -8459,8 +8455,8 @@ unit		Peasant Archers				exp 0 armour 0 weapon_lvl 0
 character	sub_faction france, Junien Tanlay, general, male, age 24, x 120, y 144 
 army
 unit		Feudal Knights				exp 1 armour 0 weapon_lvl 0
-unit		Flemish Pikemen	Mercs			exp 0 armour 0 weapon_lvl 0
-unit		Flemish Pikemen	Mercs			exp 0 armour 0 weapon_lvl 0
+unit		Flemish Pikemen Mercs			exp 0 armour 0 weapon_lvl 0
+unit		Flemish Pikemen Mercs			exp 0 armour 0 weapon_lvl 0
 unit		Crossbowmen				exp 1 armour 0 weapon_lvl 0
 unit		Crossbowmen				exp 0 armour 0 weapon_lvl 0
 unit		Armored Sergeants			exp 1 armour 0 weapon_lvl 0
