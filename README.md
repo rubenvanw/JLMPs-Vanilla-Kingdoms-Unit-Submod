@@ -51,11 +51,14 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Removed Highland Rabble and gave Scotland Peasants instead
 - Removed duplicate mercenary entries
 - Removed billmen militia, replaced recruitment in city with regular billmen
+- Removed svenner
 
 ### Changed Stats
 - Increased soldier count for Canons of the Holy Sepulcher
 - Armoured Swordsmen
 
+### Visuals
+- Norman Knights keep same visuals when upgrading armor(non upgrade looks cooler imo)
 
 ## Installation
 
