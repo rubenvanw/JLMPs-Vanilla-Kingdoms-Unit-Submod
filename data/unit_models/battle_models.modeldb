@@ -1,4 +1,4 @@
-22 serialization::archive 3 0 0 0 0 886 0 0 
+22 serialization::archive 3 0 0 0 0 890 0 0 
 5 blank 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 10 mount_pony 
 1 3 
@@ -10849,6 +10849,28 @@
 2 
 17 MTW2_Mace_Primary 14 fs_test_shield 
 0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+17 highland_spearmen 
+1 4 
+64 unit_models/_Units/Highland_Spearmen/highland_spearmen_lod0.mesh 121 
+64 unit_models/_Units/Highland_Spearmen/highland_spearmen_lod1.mesh 900 
+64 unit_models/_Units/Highland_Spearmen/highland_spearmen_lod2.mesh 2500 
+64 unit_models/_Units/Highland_Spearmen/highland_spearmen_lod3.mesh 6400 
+1 
+8 scotland 
+72 unit_models/_Units/EN_Highlander/textures/en_highlander_scotland.texture 
+70 unit_models/_Units/EN_Highlander/textures/en_highlander_normal.texture 
+48 unit_sprites/scotland_Highlanders_ug1_sprite.spr 
+1 
+8 scotland 
+69 unit_models/AttachmentSets/Final European Light_scotland_diff.texture 
+69 unit_models/AttachmentSets/Final European Light_scotland_norm.texture 0 
+1 
+4 None 
+10 MTW2_Spear 0 
+2 
+18 MTW2_Spear_primary 14 fs_test_shield 
+0 
 16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
 10 javelinmen 
 1 4 
@@ -15797,7 +15819,29 @@
 2 
 17 MTW2_Mace_Primary 14 fs_test_shield 
 0 
-16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+23 milanese_heavy_infantry 
+1 4 
+76 unit_models/_Units/Milanese_Heavy_Infantry/milanese_heavy_infantry_lod0.mesh 121 
+76 unit_models/_Units/Milanese_Heavy_Infantry/milanese_heavy_infantry_lod1.mesh 900 
+76 unit_models/_Units/Milanese_Heavy_Infantry/milanese_heavy_infantry_lod2.mesh 2500
+76 unit_models/_Units/Milanese_Heavy_Infantry/milanese_heavy_infantry_lod2.mesh 6400 
+1 
+5 milan 
+71 unit_models/_Units/LN_Lmail_Hmail/textures/LN_Lmail_Hmail_milan.texture 
+72 unit_models/_Units/LN_Lmail_Hmail/textures/LN_Lmail_Hmail_normal.texture 
+49 unit_sprites/milan_Italian_Militia_ug2_sprite.spr
+1 
+5 milan 
+59 unit_models/AttachmentSets/Final Italian_milan_diff.texture 
+59 unit_models/AttachmentSets/Final Italian_milan_norm.texture 0 
+1 
+4 None 
+9 MTW2_Mace 0 
+2 
+17 MTW2_Mace_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002  
 15 berdiche_axemen 
 1 4 
 71 unit_models/_Units/EE_Bekhtera_Heavy_Lamellar/berdiche_axemen_lod0.mesh 121 
@@ -16528,15 +16572,22 @@
 69 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_lod0.mesh 121 
 69 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_lod1.mesh 1225 
 69 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_lod2.mesh 6400 
-1 
+2 
 6 france 
 73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_france.texture 
 73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
-55 unit_sprites/france_Dismounted_Noble_Knights_sprite.spr 
-1 
+55 unit_sprites/france_Dismounted_Noble_Knights_sprite.spr
+6 poland 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_poland.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+56 unit_sprites/poland_Dismounted_Polish_Knights_sprite.spr 
+2 
 6 france 
 66 unit_models/AttachmentSets/Final Special Heads_france_diff.texture 
-66 unit_models/AttachmentSets/Final Special Heads_france_norm.texture 0 
+66 unit_models/AttachmentSets/Final Special Heads_france_norm.texture 0
+6 poland 
+66 unit_models/AttachmentSets/Final Special Heads_poland_diff.texture 
+66 unit_models/AttachmentSets/Final Special Heads_poland_norm.texture 0  
 1 
 4 None 
 16 MTW2_Slow_2H_Axe 0 
@@ -16549,15 +16600,22 @@
 73 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_ug1_lod0.mesh 121 
 73 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_ug1_lod1.mesh 1225 
 73 unit_models/_Units/EN_Pplate_Plate/dismounted_noble_knights_ug1_lod2.mesh 6400 
-1 
+2 
 6 france 
 73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_france.texture 
 73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
-59 unit_sprites/france_Dismounted_Noble_Knights_ug1_sprite.spr 
-1 
+59 unit_sprites/france_Dismounted_Noble_Knights_ug1_sprite.spr
+6 poland 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_poland.texture 
+73 unit_models/_Units/EN_Pplate_Plate/textures/mtw2_EN_Pplate_normal.texture 
+60 unit_sprites/poland_Dismounted_Polish_Knights_ug1_sprite.spr  
+2 
 6 france 
 66 unit_models/AttachmentSets/Final Special Heads_france_diff.texture 
-66 unit_models/AttachmentSets/Final Special Heads_france_norm.texture 0 
+66 unit_models/AttachmentSets/Final Special Heads_france_norm.texture 0
+6 poland 
+66 unit_models/AttachmentSets/Final Special Heads_poland_diff.texture 
+66 unit_models/AttachmentSets/Final Special Heads_poland_norm.texture 0 
 1 
 4 None 
 16 MTW2_Slow_2H_Axe 0 
@@ -17242,7 +17300,29 @@
 2 
 18 MTW2_Spear_primary 14 fs_test_shield 
 0 
-16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+27 foot_polish_noble_swordsmen 
+1 4 
+84 unit_models/_Units/Foot_Polish_Noble_Swordsmen/foot_polish_noble_swordsmen_lod0.mesh 121 
+84 unit_models/_Units/Foot_Polish_Noble_Swordsmen/foot_polish_noble_swordsmen_lod1.mesh 900 
+84 unit_models/_Units/Foot_Polish_Noble_Swordsmen/foot_polish_noble_swordsmen_lod2.mesh 2500 
+84 unit_models/_Units/Foot_Polish_Noble_Swordsmen/foot_polish_noble_swordsmen_lod3.mesh 6400 
+1 
+6 poland  
+72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_poland.texture 
+72 unit_models/_Units/EN_Lmail_Hmail/textures/EN_Lmail_Hmail_normal.texture 
+59 unit_sprites/poland_Dismounted_Polish_Nobles_ug1_sprite.spr 
+1 
+6 poland 
+59 unit_models/AttachmentSets/Final Slavic_poland_diff.texture 
+59 unit_models/AttachmentSets/Final Slavic_poland_norm.texture 0 
+1 
+4 None 
+14 MTW2_Swordsman 0 
+2 
+18 MTW2_Sword_Primary 14 fs_test_shield 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
 19 dismounted_druchima 
 1 4 
 63 unit_models/_Units/EN_Lmail_Hmail/dismounted_druchima_lod0.mesh 121 
@@ -27787,6 +27867,27 @@
 21 MTW2_Slow_2HSwordsman 0 
 1 
 24 MTW2_2HSwordsman_Primary 
+0 
+16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002
+16 gotland_huscarls
+1 3 
+62 unit_models/_Units/Gotland_Huscarls/gotland_huscarls_lod0.mesh 121 
+62 unit_models/_Units/Gotland_Huscarls/gotland_huscarls_lod1.mesh 1225 
+62 unit_models/_Units/Gotland_Huscarls/gotland_huscarls_lod2.mesh 6400 
+1 
+6 norway 
+77 unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_norway.texture 
+77 unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_normal.texture 
+46 unit_sprites/norway_Gotland_Footmen_sprite.spr 
+1 
+6 norway 
+59 unit_models/AttachmentSets/Final Danish_norway_diff.texture 
+59 unit_models/AttachmentSets/Final Danish_norway_norm.texture 0 
+1 
+4 None 
+9 MTW2_Mace 0 
+2 
+17 MTW2_Mace_Primary 14 fs_test_shield 
 0 
 16 -0.090000004 0 0 -0.34999999 0.80000001 0.60000002 
 7 svenner 
