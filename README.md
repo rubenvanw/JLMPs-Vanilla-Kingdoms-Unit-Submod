@@ -25,6 +25,8 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Dismounted Gothic Knights
 ### Ireland
 - Ostmen Raiders
+### Milan
+- Milanese Heavy Infantry
 ### Mongols
 - Mongol Swordsmen
 - Mongol Heavy Swordsmen
@@ -32,10 +34,16 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Moorish Guard
 ### Norway
 - Dismounted War Clerics
+- Gotland Huscarls
 ### Novgorod
 - Dismounted Tsars Guard
+### Poland
+- Dismounted Noble Knights
+- Foot Polish Noble Swordsmen
 ### Russia
 - Dismounted Tsars Guard
+### Scotland
+- Highland Spearmen
 ### Sicily
 - Norman Axemen
 ### Teutonic Order
@@ -44,6 +52,7 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Gwynedd Swordsmen
 
 ## Other Changes
+
 
 ### Some units are removed to free up entries in the export_descr_units.txt
 - English hobilars changed to border horse
@@ -56,6 +65,7 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Removed Carroccio Standards
 - Removed Heavy Pike Militia. Recruitment replaced with Noble Pikemen
 - Removed Flagellants
+- French Dismounted Chivalric Knights changed to Dismounted Noble Knights
 
 ### Changed Stats
 - Increased soldier count for Canons of the Holy Sepulcher
