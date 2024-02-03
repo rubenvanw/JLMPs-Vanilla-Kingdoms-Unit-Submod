@@ -1,5 +1,6 @@
 # JLMPs-Vanilla-Kingdoms-Unit-Submod
 A submod for Total War: MEDIEVAL II - JLMPs Vanilla Kingdoms 2023. Adds a bunch of new units to the game.
+In the new version I took more libery in removing units and to free up slots for new units.
 Link to original mod: https://www.moddb.com/mods/jlmps-vanilla-kingdoms-2022
 Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 
@@ -14,6 +15,8 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 
 ### Antioch
 - Dismounted Hospitaller Knights
+### Byzantium
+- Menaulatoi
 ### Crusader States
 - Templar Zweihander
 - Dismounted Templar Knights
@@ -23,8 +26,10 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Dismounted Gendarmes
 ### Holy Roman Empire
 - Dismounted Gothic Knights
+### Hungary
+- Hungarian Swordsmen
 ### Ireland
-- Ostmen Raiders
+- Fianna
 ### Milan
 - Milanese Heavy Infantry
 ### Mongols
@@ -40,12 +45,16 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 ### Poland
 - Dismounted Noble Knights
 - Foot Polish Noble Swordsmen
+### Portugal
+- Foot Knights of Santiago
 ### Russia
 - Dismounted Tsars Guard
 ### Scotland
 - Highland Spearmen
 ### Sicily
 - Norman Axemen
+### Spain
+- Foot Knights of Santiago
 ### Teutonic Order
 - Foot Ritterbrüder Zweihander
 ### Wales
@@ -66,14 +75,22 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Removed Heavy Pike Militia. Recruitment replaced with Noble Pikemen
 - Removed Flagellants
 - French Dismounted Chivalric Knights changed to Dismounted Noble Knights
+- Removed Ostmen Raiders
+- Removed Native Mercenaries
+- Removed Alemanoi
 
 ### Changed Stats
 - Increased soldier count for Canons of the Holy Sepulcher
-- Armoured Swordsmen
+- Increased stats for Armoured Swordsmen
 - Increased armor Gotland Footmen and fixed their building recruitment
+- Gave Hashashim and Battlefield Assassins their 2hp back
 
 ### Visuals
 - Norman Knights keep same visuals when upgrading armor(non upgrade looks cooler imo)
+- Added visual upgrade for Dismounted Latinkon
+- Changed model for Pavise Spearmen
+- Added visual upgrade for Battlefield Assassins
+- New unit card for Norman Axemen
 
 ## Installation
 
