@@ -8,12 +8,10 @@
 
 pool America
 	regions North_America Caribbean_Isles Tlaxcala_Province Cholula_Province
-	unit Native Mercenaries			exp 0 cost 480 replenish 0.06 - 0.18 max 4 initial 4
 
 
 pool Mexico
 	regions Tenochtitlan_Province
-	unit Native Mercenaries			exp 0 cost 500 replenish 0.36 - 1.0 max 6 initial 3
 
 
 pool Scotland_Ireland
@@ -395,7 +393,6 @@ pool West_Greece
 	unit Ghazis						exp 0 cost 120 replenish 0.18 - 0.5 max 5 initial 1 religions { islam } crusading
 	unit Turkomans Mercs			exp 0 cost 740 replenish 0.02 - 0.10 max 2 initial 1 religions { islam orthodox }
 	unit Greek Firethrower			exp 0 cost 1000 replenish 0.04 - 0.10 max 2 initial 1 religions { catholic orthodox }
-	unit Alamanoi				exp 0 cost 830 replenish 0.06 - 0.18 max 3 initial 1 start_year 1260 religions { catholic orthodox }
 	unit Mercenary Axemen			exp 0 cost 550 replenish 0.04 - 0.13 max 2 initial 1
 
 
@@ -459,7 +456,6 @@ pool Arabia
 
 pool Brazil
 	regions Brazil
-	unit Native Mercenaries			exp 0 cost 500 replenish 0.12 - 0.33 max 4 initial 1
 
 
 pool North_Africa

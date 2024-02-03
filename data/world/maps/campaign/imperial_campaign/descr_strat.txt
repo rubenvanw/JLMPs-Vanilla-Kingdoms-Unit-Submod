@@ -5144,7 +5144,7 @@ traits Factionheir 1 , LoyaltyStarter 1 , NaturalMilitarySkill 1 , Intelligent 1
 ancillaries mentor
 army
 unit		Greek Bodyguard				exp 1 armour 0 weapon_lvl 0
-unit		Menaulatoi				exp 1 armour 0 weapon_lvl 0
+unit		Byzantine Infantry			exp 1 armour 0 weapon_lvl 0
 unit		Byzantine Spearmen			exp 0 armour 0 weapon_lvl 0
 unit		Byzantine Lancers			exp 1 armour 0 weapon_lvl 0
 unit		S Peasant Archers			exp 0 armour 0 weapon_lvl 0
@@ -8255,7 +8255,7 @@ unit		Southern Peasants			exp 0 armour 0 weapon_lvl 0
 character	sub_faction byzantium, Kyriakos Branas, general, male, age 30, x 191, y 71
 army
 unit		Feudal Knights				exp 0 armour 0 weapon_lvl 0
-unit		Menaulatoi				exp 1 armour 0 weapon_lvl 0
+unit		Byzantine Infantry			exp 1 armour 0 weapon_lvl 0
 unit		Byzantine Spearmen			exp 0 armour 0 weapon_lvl 0
 unit		Armored Sergeants			exp 1 armour 0 weapon_lvl 0
 unit		Pavise Crossbow Militia			exp 1 armour 0 weapon_lvl 0
