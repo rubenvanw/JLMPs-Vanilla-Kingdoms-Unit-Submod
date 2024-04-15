@@ -91,6 +91,7 @@ Link to this mod: https://www.moddb.com/mods/unit-submod-jlmps-vanilla-kingdoms
 - Changed model for Pavise Spearmen
 - Added visual upgrade for Battlefield Assassins
 - New unit card for Norman Axemen
+- Changed visual upgrades for Meirionnydd Spearmen
 
 ## Installation
 
